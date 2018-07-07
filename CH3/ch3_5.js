@@ -7,10 +7,14 @@ The stack supports the following operations: push, pop, peek, and is Empty.
 
 /*
 
-| | | |
-| | | |
-| | | | 
-| | | |
-| | | |  
+temp: 5
+
+|  |  |  |
+| 8|  |  |
+|12|  |5 | 
+|10|  |3 |
+| 7|  |1 |  
+
 
 */
+
