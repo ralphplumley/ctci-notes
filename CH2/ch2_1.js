@@ -1,7 +1,4 @@
-// remove dups
-
-// fn checkDuplicates
-// fn print
+// Remove dups
 
 let isItADuplicate = function(head, node) {
   var currNode = head;
