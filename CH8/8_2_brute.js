@@ -37,10 +37,9 @@ let helper_brute = function(grid, row, col, path) {
 /* TEST */
 
 var grid = [
-  ['0', 'x', '0', '0'],
-  ['0', '0', '0', 'x'],
+  ['0', '0', '0', '0'],
+  ['0', 'x', '0', 'x'],
   ['x', '0', '0', '0'],
-  ['0', '0', 'x', '0']
 ];
 
 console.log(get_path_brute(grid));
